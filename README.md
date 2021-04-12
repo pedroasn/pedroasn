@@ -1,6 +1,6 @@
 ### Olá Pessoal, Bem-Vindos 👋
 
-Trabalho a mais de 3 anos com o desenvolvimento de dashBoards e relatórios no Power BI, estudante de Ciência de Dados na UNINASSAU (2º Período)
+Trabalho a mais de 3 anos com o desenvolvimento de dashboards e relatórios no Power BI, estudante de Ciência de Dados na UNINASSAU (2º Período)
 
 - 🔭 Estou trabalhando na CDS SISTEMAS como Analista de BI 
 - 🌱 Busco aprender e colaborar em projetos de BI com a ferramenta do Power BI 
