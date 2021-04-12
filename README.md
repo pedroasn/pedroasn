@@ -4,6 +4,6 @@ Trabalho a mais de 3 anos com o desenvolvimento de dashboards e relatórios no P
 
 - 🔭 Estou trabalhando na CDS SISTEMAS como Analista de BI 
 - 🌱 Busco aprender e colaborar em projetos de BI com a ferramenta do Power BI 
-- 💬 Stack: DAX, Sql Server, SISS, SASS, SQL, Power Query, Linguagem M, ETL, Excel
+- 💬 Stack: DAX, Sql Server, SSIS, SSAS, SQL, Power Query, Linguagem M, ETL, Excel
 - 📫 Contato: pedroasn@outlook.com
 - ⚡ Link: https://www.linkedin.com/in/pedro-advincula-da-silva-neto-201487104/
