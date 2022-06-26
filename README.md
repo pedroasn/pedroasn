@@ -8,7 +8,7 @@ Trabalho a mais de 3 anos com desenvolvimento de relatórios e dashboards person
 - 📫 Contato: pedroasn@outlook.com
 - ⚡ Link: https://www.linkedin.com/in/pedro-advincula-da-silva-neto-201487104/
 
-- links de Projetos : 
+- links de Projetos: 
 
 Recursos Humanos - www.encurtador.com.br/fjoCZ
 
