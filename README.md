@@ -2,7 +2,7 @@
 
 Trabalho a mais de 3 anos com desenvolvimento de relatórios e dashboards personalizados com Power BI, faço a administração do Power BI Service dos clientes, participo de reuniões para o levantamento dos requisitos junto ao clientes e faço o treinamento da usabilidade da ferramenta para colaboradores dos clientes.
 
-- 🔭 Estou trabalhando na CDS SISTEMAS como Analista de BI 
+- 🔭 Estou trabalhando na ACP GROUP como Analista de BI, alocado no cliente - MPPE (Ministério Público de PE) 
 - 🌱 Busco aprender e colaborar em projetos de BI com a ferramenta do Power BI 
 - 💬 Stack: DAX, Sql Server, SSIS, SSAS, SQL, Power Query, Linguagem M, ETL, Excel
 - 📫 Contato: pedroasn@outlook.com
