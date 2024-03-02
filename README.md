@@ -6,7 +6,7 @@ Trabalho a mais de 5 anos com desenvolvimento de relatórios e dashboards person
 - 🌱 Busco aprender e colaborar em projetos de BI com a ferramenta do Power BI 
 - 💬 Stack: DAX, Sql Server, SSIS, SSAS, SQL, Power Query, Linguagem M, ETL, Excel
 - 📫 Contato: pedroasn@outlook.com
-- ⚡ Link: https://www.linkedin.com/in/pedro-advincula-da-silva-neto-201487104/
+- ⚡ Link: https://www.linkedin.com/in/pedroasn/
 
 
 
