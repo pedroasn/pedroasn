@@ -9,11 +9,13 @@
 - ⚡ Link: https://www.linkedin.com/in/pedroasn/
 
 
+
 ### Certificações 
 
 - PL300 – Power BI Data Analyst Associate (3X)
 - DP900 – Azure Data Fundamentals
 - DP600 - Engenheiro Associado de Análise em Fabric (1X)
+
 
 
 ### Habilidades
