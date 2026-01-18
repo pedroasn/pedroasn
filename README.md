@@ -1,6 +1,6 @@
 ### Olá Pessoal, Bem-Vindos 👋
 
-Trabalho a mais de 5 anos com desenvolvimento de relatórios e dashboards personalizados com Power BI, faço a administração do Power BI Service dos clientes, participo de reuniões para o levantamento dos requisitos junto ao clientes e faço o treinamento da usabilidade da ferramenta para colaboradores dos clientes.
+  Profissional com experiência sólida em Business Intelligence, engenharia de dados e análise de dados, atuando desde 2018 com foco em transformar dados em informações estratégicas para a tomada de decisão. Iniciei minha carreira desenvolvendo dashboards interativos em Power BI, evoluindo para projetos completos de BI com ETL utilizando Pentaho e construção de Data Warehouse (DW). Atuei na implantação de mais de 40 projetos de BI em clientes de diversos segmentos: educação, varejo (joias, calçados, moda), indústria alimentícia (sorvetes) e em parcerias com consultorias financeiras.
 
 - 🔭 Estou trabalhando na Netra Tecnologia como Analista de BI Sênior, alocado no cliente - MPPE (Ministério Público de PE) 
 - 🌱 Busco aprender e colaborar em projetos de BI, BA e Ciência de Dados
@@ -9,7 +9,11 @@ Trabalho a mais de 5 anos com desenvolvimento de relatórios e dashboards person
 - ⚡ Link: https://www.linkedin.com/in/pedroasn/
 
 
+CERTIFICAÇÕES 
 
+PL300 – Power BI Data Analyst Associate (3X)
+DP900 – Azure Data Fundamentals
+DP600 - Engenheiro Associado de Análise em Fabric (1X)
 
 
 HARD SKILLS
