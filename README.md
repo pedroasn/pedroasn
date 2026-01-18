@@ -19,7 +19,7 @@ Trabalho a mais de 5 anos com desenvolvimento de relatórios e dashboards person
   <img align="center" alt="pedro-tab" height="40" width="40" src="https://e7.pngegg.com/pngimages/875/824/png-clipart-tableau-software-computer-software-business-intelligence-data-visualization-tableau-software-computer-software-thumbnail.png">
   <img align="center" alt="pedro-post" height="40" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
   <img align="center" alt="pedro-dp600" height="40" width="40" src="https://consultabd.wordpress.com/2020/08/06/dp_900_azure_data_fundamentals/">
-  <img align="center" alt="pedro-pl600" height="40" width="40" src="https://eliugbomeh.com/">
+  <img align="center" alt="pedro-pl600" height="40" width="40" src="https://training.cellenza.com/wp-content/uploads/2025/06/DP-600.png">
   <img align="center" alt="pedro-pl300" height="40" width="40" src="https://www.whizlabs.com/blog/wp-content/uploads/2023/07/power-bi.png">
 </div>
 
