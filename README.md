@@ -4,7 +4,7 @@
 
 - 🔭 Estou trabalhando na Netra Tecnologia como Analista de BI Sênior, alocado no cliente - MPPE (Ministério Público de PE) 
 - 🌱 Busco aprender e colaborar em projetos de BI, BA e Ciência de Dados
-- 💬 Stack: DAX, Sql Server, SSIS, SSAS, SQL, Power Query, Linguagem M, ETL, Excel, python
+- 💬 Stack: DAX, Sql Server, SSIS, SSAS, SQL, Power Query, Linguagem M, ETL, Excel, python, Spark, Power BI
 - 📫 Contato: pedroasn@outlook.com
 - ⚡ Link: https://www.linkedin.com/in/pedroasn/
 
