@@ -24,7 +24,7 @@
   <img align="center" alt="pedro-sql" height="40" width="40" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg">
   <img align="center" alt="pedro-tab" height="40" width="40" src="https://kwanzeo.com/wp-content/uploads/2024/08/logo_microsoft_fabric.webp">
   <img align="center" alt="pedro-post" height="40" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
-  <img align="center" alt="pedro-spark" height="40" width="40" src="https://i0.wp.com/blog.dsacademy.com.br/wp-content/uploads/2020/08/Serie-Spark-e-Databricks-Parte-1-Arquitetura-e-Componentes-do-Apache-Spark.png?fit=580%2C358&ssl=1">
+  <img align="center" alt="pedro-spark" height="40" width="40" src="https://juststickers.in/wp-content/uploads/2019/07/apache-spark.png">
 </div>
 
 
