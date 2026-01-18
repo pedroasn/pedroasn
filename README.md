@@ -2,11 +2,13 @@
 
 Trabalho a mais de 5 anos com desenvolvimento de relatórios e dashboards personalizados com Power BI, faço a administração do Power BI Service dos clientes, participo de reuniões para o levantamento dos requisitos junto ao clientes e faço o treinamento da usabilidade da ferramenta para colaboradores dos clientes.
 
-- 🔭 Estou trabalhando na Netra Tecnologia como Analista de BI, alocado no cliente - MPPE (Ministério Público de PE) 
-- 🌱 Busco aprender e colaborar em projetos de BI com a ferramenta do Power BI 
-- 💬 Stack: DAX, Sql Server, SSIS, SSAS, SQL, Power Query, Linguagem M, ETL, Excel
+- 🔭 Estou trabalhando na Netra Tecnologia como Analista de BI Sênior, alocado no cliente - MPPE (Ministério Público de PE) 
+- 🌱 Busco aprender e colaborar em projetos de BI, BA e Ciência de Dados
+- 💬 Stack: DAX, Sql Server, SSIS, SSAS, SQL, Power Query, Linguagem M, ETL, Excel, python
 - 📫 Contato: pedroasn@outlook.com
 - ⚡ Link: https://www.linkedin.com/in/pedroasn/
+
+
 
 
 
