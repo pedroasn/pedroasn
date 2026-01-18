@@ -10,7 +10,9 @@ Trabalho a mais de 5 anos com desenvolvimento de relatórios e dashboards person
 
 
 
-- Stacks
+
+
+HARD SKILLS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro-pbi" height="40" width=40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
