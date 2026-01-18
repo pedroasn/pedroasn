@@ -10,7 +10,7 @@
 
 
 
-### Certificações 
+### Certificados 
 
 - PL300 – Power BI Data Analyst Associate (3X)
 - DP900 – Azure Data Fundamentals
