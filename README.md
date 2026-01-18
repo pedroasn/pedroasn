@@ -9,14 +9,14 @@
 - ⚡ Link: https://www.linkedin.com/in/pedroasn/
 
 
-CERTIFICAÇÕES 
+### CERTIFICAÇÕES 
 
-PL300 – Power BI Data Analyst Associate (3X)
-DP900 – Azure Data Fundamentals
-DP600 - Engenheiro Associado de Análise em Fabric (1X)
+- PL300 – Power BI Data Analyst Associate (3X)
+- DP900 – Azure Data Fundamentals
+- DP600 - Engenheiro Associado de Análise em Fabric (1X)
 
 
-HARD SKILLS
+### HARD SKILLS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro-pbi" height="40" width=40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
