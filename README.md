@@ -18,7 +18,7 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="pedro-pl300" height="40" width="40" src="https://stuffbyyuki.com/wp-content/uploads/2021/06/CERT-Associate-Data-Analyst-600x600-1.png">
+  <img align="center" alt="pedro-pl300" height="60" width="60" src="https://stuffbyyuki.com/wp-content/uploads/2021/06/CERT-Associate-Data-Analyst-600x600-1.png">
 </div>
 
 
