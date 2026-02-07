@@ -20,6 +20,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro-pl300" height="90" width="90" src="https://stuffbyyuki.com/wp-content/uploads/2021/06/CERT-Associate-Data-Analyst-600x600-1.png">
   <img align="center" alt="pedro-dp600" height="90" width="90" src="https://vel.co.jp/wp-content/uploads/2025/02/Fabric-Analytics-Engineer-Associate-Badge.png">
+  <img align="center" alt="pedro-dp900" height="90" width="90" src="https://ensin-e.edu.br/wp-content/uploads/2024/03/azure-data-fundamentals-600x600-1.png">
 </div>
 
 
