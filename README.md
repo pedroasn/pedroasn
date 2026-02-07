@@ -27,6 +27,7 @@
   <img align="center" alt="pedro-tab" height="40" width="40" src="https://kwanzeo.com/wp-content/uploads/2024/08/logo_microsoft_fabric.webp">
   <img align="center" alt="pedro-post" height="40" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
   <img align="center" alt="pedro-spark" height="40" width="40" src="https://juststickers.in/wp-content/uploads/2019/07/apache-spark.png">
+  <img align="center" alt="pedro-azure" height="40" width="40" src="https://swimburger.net/media/fbqnp2ie/azure.svg">
 </div>
 
 
