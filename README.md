@@ -21,7 +21,6 @@
 ### Habilidades
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="pedro-pbi" height="40" width=40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="pedro-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="pedro-sql" height="40" width="40" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg">
   <img align="center" alt="pedro-tab" height="40" width="40" src="https://kwanzeo.com/wp-content/uploads/2024/08/logo_microsoft_fabric.webp">
