@@ -28,7 +28,7 @@
   <img align="center" alt="pedro-post" height="40" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
   <img align="center" alt="pedro-spark" height="40" width="40" src="https://juststickers.in/wp-content/uploads/2019/07/apache-spark.png">
   <img align="center" alt="pedro-azure" height="40" width="40" src="https://swimburger.net/media/fbqnp2ie/azure.svg">
-  <img align="center" alt="pedro-azure" height="40" width="40" src="https://awesome-astra.github.io/docs/img/pentaho-data-integration/logo-pentaho.png">
+  <img align="center" alt="pedro-azure" height="40" width="40" src="https://thiagoanalytics.com.br/wp-content/uploads/2023/11/11-pentaho.jpg">
 </div>
 
 
