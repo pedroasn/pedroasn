@@ -11,14 +11,18 @@
 
 
 ### Certificados 
+
+- PL300 – Power BI Data Analyst Associate (3X)
+- DP900 – Azure Data Fundamentals
+- DP600 - Engenheiro Associado de Análise em Fabric (1X)
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro-hop" height="40" width="40" src="https://hop.apache.org/img/hop-logo.svg">
 </div>
 
 
-- PL300 – Power BI Data Analyst Associate (3X)
-- DP900 – Azure Data Fundamentals
-- DP600 - Engenheiro Associado de Análise em Fabric (1X)
+
 
 
 
