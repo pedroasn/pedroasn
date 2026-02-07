@@ -29,6 +29,7 @@
   <img align="center" alt="pedro-spark" height="40" width="40" src="https://juststickers.in/wp-content/uploads/2019/07/apache-spark.png">
   <img align="center" alt="pedro-azure" height="40" width="40" src="https://swimburger.net/media/fbqnp2ie/azure.svg">
   <img align="center" alt="pedro-pdi" height="40" width="40" src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png">
+  <img align="center" alt="pedro-hop" height="40" width="40" src="https://hop.apache.org/img/hop-logo.svg">
 </div>
 
 
