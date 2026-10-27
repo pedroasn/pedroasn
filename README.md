@@ -33,7 +33,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro-powerbi" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="pedro-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="pedro-tab" height="40" width="40" src="https://kwanzeo.com/wp-content/uploads/2024/08/logo_microsoft_fabric.webp">
+  <img align="center" alt="pedro-tab" height="40" width="40" src="https://www.bridgeall.com/wp-content/smush-webp/2024/04/Fabric_final_x256.png.webp">
   <img align="center" alt="pedro-post" height="40" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
   <img align="center" alt="pedro-azure" height="40" width="40" src="https://swimburger.net/media/fbqnp2ie/azure.svg">
   <img align="center" alt="pedro-pdi" height="40" width="40" src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png">
